@@ -1,0 +1,116 @@
+{
+    "android_gradle_plugin_version": "2.2.2",
+    "apk_path": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        "app": {
+            "aptArgs": [
+                
+            ],
+            "aptOutput": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\generated\\source\\apt\\debug",
+            "disableDiscovery": false,
+            "enabled": true,
+            "processor": null,
+            "processorPath": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.jakewharton\\butterknife\\8.4.0\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-fragment\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-fragment\\24.2.1\\jars\\libs\\internal_impl-24.2.1.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\24.2.1\\jars\\libs\\internal_impl-24.2.1.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-core-utils\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-core-utils\\24.2.1\\jars\\libs\\internal_impl-24.2.1.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\animated-vector-drawable\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-vector-drawable\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-core-ui\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-core-ui\\24.2.1\\jars\\libs\\internal_impl-24.2.1.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\24.2.1\\jars\\classes.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\24.2.1\\jars\\libs\\internal_impl-24.2.1.jar;C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\intermediates\\exploded-aar\\com.antfortune.freeline\\runtime\\0.8.4\\jars\\classes.jar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-annotations\\24.2.1\\support-annotations-24.2.1.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.jakewharton\\butterknife-annotations\\8.4.0\\ea392375cf9ff59234a82e7928a204215ccc98cd\\butterknife-annotations-8.4.0.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.4\\695b63d702f505b9b916e02272e3b6381bade7f\\gson-2.4.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\org.greenrobot\\eventbus\\3.0.0\\ddd99896e9569eaababbe81b35d80e1b91c4ad85\\eventbus-3.0.0.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.jakewharton\\butterknife-compiler\\8.4.0\\22f40cd3f01849c6deeab0a755d2082b2624581\\butterknife-compiler-8.4.0.jar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\appcompat-v7\\24.2.1\\appcompat-v7-24.2.1.aar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.jakewharton\\butterknife\\8.4.0\\6c39334929311ff90a06c67ca310db1342fe2b6a\\butterknife-8.4.0.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\design\\24.2.1\\design-24.2.1.aar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.google.auto\\auto-common\\0.6\\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\\auto-common-0.6.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.google.auto.service\\auto-service\\1.0-rc2\\51033a5b8fcf7039159e35b6878f106ccd5fb35f\\auto-service-1.0-rc2.jar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup\\javapoet\\1.7.0\\4fdcf1fc27c1a8f55d1109df986c923152f07759\\javapoet-1.7.0.jar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-v4\\24.2.1\\support-v4-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-vector-drawable\\24.2.1\\support-vector-drawable-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\animated-vector-drawable\\24.2.1\\animated-vector-drawable-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\recyclerview-v7\\24.2.1\\recyclerview-v7-24.2.1.aar;C:\\Users\\mulinrui\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\18.0\\cce0823396aa693798f8882e64213b1772032b09\\guava-18.0.jar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-compat\\24.2.1\\support-compat-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-media-compat\\24.2.1\\support-media-compat-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-core-utils\\24.2.1\\support-core-utils-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-core-ui\\24.2.1\\support-core-ui-24.2.1.aar;G:\\android-sdk-windows\\extras\\android\\m2repository\\com\\android\\support\\support-fragment\\24.2.1\\support-fragment-24.2.1.aar"
+        }
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": true
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\freeline",
+    "build_directory": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "G:\\android-sdk-windows\\build-tools\\23.0.2",
+    "build_tools_version": "23.0.2",
+    "compile_sdk_directory": "G:\\android-sdk-windows\\platforms\\android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.example.hanfl.ninetempledemo",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_102",
+    "launcher": "com.example.hanfl.ninetempledemo.MainActivity",
+    "main_assets_directory": [
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\assets",
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\jniLibs",
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\jni",
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\res",
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\java",
+        "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app"
+        }
+    ],
+    "package": "com.example.hanfl.ninetempledemo",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\assets",
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\jniLibs",
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\jni",
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\res",
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\debug\\java",
+                "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "C:\\Users\\mulinrui\\Desktop\\NineTempleDemo-master",
+    "sdk_directory": "G:\\android-sdk-windows",
+    "use_jdk8": true
+}
